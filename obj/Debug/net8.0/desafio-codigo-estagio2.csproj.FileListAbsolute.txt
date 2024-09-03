@@ -1,0 +1,14 @@
+C:\Repositorios\C#\desafio-codigo-estagio2\bin\Debug\net8.0\desafio-codigo-estagio2.exe
+C:\Repositorios\C#\desafio-codigo-estagio2\bin\Debug\net8.0\desafio-codigo-estagio2.deps.json
+C:\Repositorios\C#\desafio-codigo-estagio2\bin\Debug\net8.0\desafio-codigo-estagio2.runtimeconfig.json
+C:\Repositorios\C#\desafio-codigo-estagio2\bin\Debug\net8.0\desafio-codigo-estagio2.dll
+C:\Repositorios\C#\desafio-codigo-estagio2\bin\Debug\net8.0\desafio-codigo-estagio2.pdb
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\desafio-codigo-estagio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\desafio-codigo-estagio2.AssemblyInfoInputs.cache
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\desafio-codigo-estagio2.AssemblyInfo.cs
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\desafio-codigo-estagio2.csproj.CoreCompileInputs.cache
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\desafio-codigo-estagio2.dll
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\refint\desafio-codigo-estagio2.dll
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\desafio-codigo-estagio2.pdb
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\desafio-codigo-estagio2.genruntimeconfig.cache
+C:\Repositorios\C#\desafio-codigo-estagio2\obj\Debug\net8.0\ref\desafio-codigo-estagio2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "desafio-codigo-estagio2/1.0.0": {
+        "runtime": {
+          "desafio-codigo-estagio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio-codigo-estagio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
